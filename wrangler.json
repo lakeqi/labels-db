@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "labels-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "046fcc54-5c90-4dbc-be46-99fcddfae47e",
+			"database_name": "labels-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
